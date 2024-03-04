@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello, I am Johan from Queens, NY. I am a senior studying computer science at NYU. I enjoy web developing and I am also interested in becoming more experience in mobile development. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+
 

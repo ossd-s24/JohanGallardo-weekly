@@ -25,3 +25,5 @@ Replace the first row with your own contribution.
 | Feb 20   |   [New Queens Apt](https://www.openstreetmap.org/changeset/147676489) | OpenStreetMap    | I removed an old parking lot and added the new apartment complex that was built over it.     |
 | Feb 23 |  [New York Education Program](https://en.wikipedia.org/w/index.php?title=Higher_Education_Opportunity_Program&oldid=1209909766)   | Wikipedia |  I fixed statistics on the program and added more details about it. I also added a working citation from the DOE website. |
 | Feb 24 |[Sabores Restaurant](https://www.openstreetmap.org/changeset/147841491) | OpenStreetMap  | Added local Queens restaurant and its hours along with its cuisine type.    |
+| Apr 17|[MKCERT PR](https://github.com/FiloSottile/mkcert/pull/580)|MKCERT|Repaired broken link to Arch Linux package for Mkcert|
+|Apr 19|[MailCatcher Issue](https://github.com/dockage/mailcatcher/issues/20)|MailCatcher|Brought up missing documentation link and asked for solution to implement|

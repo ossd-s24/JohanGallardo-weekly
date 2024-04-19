@@ -27,5 +27,4 @@ Replace the first row with your own contribution.
 | Feb 24 |[Sabores Restaurant](https://www.openstreetmap.org/changeset/147841491) | OpenStreetMap  | Added local Queens restaurant and its hours along with its cuisine type.    |
 | Apr 17|[MKCERT PR](https://github.com/FiloSottile/mkcert/pull/580)|MKCERT|Repaired broken link to Arch Linux package for Mkcert|
 |Apr 17|[MailCatcher Issue](https://github.com/dockage/mailcatcher/issues/20)|MailCatcher|Brought up missing documentation link and asked for solution to implement|
-|Apr 18 |[80-02 Ammeneties](https://www.openstreetmap.org/changeset/150200147#map=19/40.71358/-73.83121)|OpenStreetMap|Added parking lot, chargin station, District Attorney Office, Law Office, Orthopedic Surgeon office, 24 Hour Fitness Gym locations and information to building in Kew Gardens.|
-
+|Apr 18 |[80-02 Amenities](https://www.openstreetmap.org/changeset/150200147#map=19/40.71358/-73.83121)|OpenStreetMap|Added parking lot, charging station, District Attorney Office, Law Office, Orthopedic Surgeon Office, 24 Hour Fitness Gym locations and information to a building in Kew Gardens.|

@@ -30,3 +30,4 @@ Replace the first row with your own contribution.
 |Apr 18 |[80-02 Amenities](https://www.openstreetmap.org/changeset/150200147#map=19/40.71358/-73.83121)|OpenStreetMap|Added parking lot, charging station, District Attorney Office, Law Office, Orthopedic Surgeon Office, 24 Hour Fitness Gym locations and information to a building in Kew Gardens.|
 |Apr 22|[MailCatcher Issue](https://github.com/sj26/mailcatcher/issues/557)|MailCatcher|Asked about an issue where there is a missing icon on the main page of Mailcatcher that is displaying an error.|
 |Apr 23|[AppImageLauncher PR](https://github.com/TheAssassin/AppImageLauncher/pull/639)|AppImageLauncher|I updated a link in the resources section of the Readme file in the main repository|
+|Apr 27|[Kayla Harrison](https://en.wikipedia.org/w/index.php?title=Kayla_Harrison&diff=prev&oldid=1221116889)|Wikipedia |Added television appearance of the PFL/MMA Judo Gold Medalist Kayla Harrison on Impractical Jokers.  |
